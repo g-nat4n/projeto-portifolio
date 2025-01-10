@@ -450,3 +450,12 @@ footer .line-footer a{
     z-index: 88888;
     display: none;
 }
+
+
+.menu-mobile.abrir-menu{
+    width: 70%;
+}
+
+.menu-mobile.btn-abrir-menu ~ .overlay-menu{
+    display: block;
+}
